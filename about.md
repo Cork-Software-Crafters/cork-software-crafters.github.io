@@ -1,3 +1,8 @@
+---
+layout: page
+title: About
+---
+
 We want to build a community around passionate developers, interested in improving their technical skills, in discussing and sharing their knowledge with their peers.
 
 This is all about "learning by doing": Coding Dojos, Architectural Katas, Mob sessions, moderated discussions, ...
