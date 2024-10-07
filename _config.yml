@@ -2,3 +2,10 @@ title: Cork Software Crafters
 description: >-
   This is the official website of the Cork Software Crafters Meetup group, hosting event history and updates.
 theme: minima # You can replace 'minima' with any other Jekyll theme name.
+
+# Social media links
+social_links:
+  twitter: https://x.com/CorkSwCraft
+  github: https://github.com/Cork-Software-Crafters
+  linkedin: https://www.linkedin.com/groups/12085596
+  meetup: https://www.meetup.com/cork-software-crafters
