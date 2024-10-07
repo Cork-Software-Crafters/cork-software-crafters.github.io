@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome to Cork Software Crafters
+title: Events
 ---
 
 ## Cork Software Crafters Event History
