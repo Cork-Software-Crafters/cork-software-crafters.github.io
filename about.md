@@ -12,7 +12,7 @@ We value:
 
 [The Manifesto for Software Craftsmanship](https://manifesto.softwarecraftsmanship.org/)
 
-[Manifesto for Software Craftsmanship Gatherings](http://2015.itakeunconf.com/manifesto-software-craftsmanship-gatherings/)
+[Manifesto for Software Craftsmanship Gatherings](https://2014.itakeunconf.com/values)
 
 Follow us on:
 - Meetup https://www.meetup.com/cork-software-crafters
