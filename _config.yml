@@ -4,8 +4,9 @@ description: >-
 theme: minima # You can replace 'minima' with any other Jekyll theme name.
 
 # Social media links
-social_links:
-  twitter: https://x.com/CorkSwCraft
-  github: https://github.com/Cork-Software-Crafters
-  linkedin: https://www.linkedin.com/groups/12085596
-  meetup: https://www.meetup.com/cork-software-crafters
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/Cork-Software-Crafters" }
+    - { platform: x, user_url: "https://x.com/CorkSwCraft" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/groups/12085596" }
+    - { platform: meetup, user_url: "https://www.meetup.com/cork-software-crafters" }
