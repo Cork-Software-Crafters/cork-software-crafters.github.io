@@ -100,3 +100,12 @@ title: Events
   - **Resources**: http://codingdojo.org/WhatIsCodingDojo/, https://refactoring.com
   - **Links**: [X post](https://x.com/CorkSwCraft/status/1375056196785336322?s=20), [Meetup](https://meetup.com/Cork-Software-Craftsmanship-Meetup/events/277090880/)
 
+---
+
+### Test-Driven Development practice session (Lift Kata)
+  - **When**: Thursday, February 25, 2021 — 7:00 PM
+  - **Summary**: An online deliberate-practice session using a coding kata to improve TDD skills, software design, and explore different approaches and techniques.
+  - **Exercise**: [Lift Kata](http://kata-log.rocks/lift-kata)
+  - **Agenda**: 7:00 welcome & intro, 7:15 hands-on time in pairs, 8:15 retrospective
+  - **Resources**: http://codingdojo.org/WhatIsCodingDojo/, http://codingdojo.org/TestDrivenDevelopment/
+
