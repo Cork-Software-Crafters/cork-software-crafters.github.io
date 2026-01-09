@@ -58,6 +58,16 @@ title: Events
 
 ---
 
+### Refactoring to Hexagonal Architecture
+- **When**: Tuesday, June 14, 2022 — 6:15 PM IST
+- **Summary**: In-person session practicing refactoring techniques to safely improve existing code, using Hexagonal Architecture ideas to better structure an application and protect the domain model from external systems.
+- **Exercise**: [Birthday Greetings Kata](https://github.com/Cork-Software-Crafters/birthday-greetings-kata)
+- **Agenda**: 6:15 welcome (chat & pizza), 6:30 intro to Hexagonal Architecture, 6:45 hands-on in pairs, 8:00 retrospective
+- **Location**: ClickDimensions, 10 South Mall, Cork
+- **Links**: [X post](https://x.com/CorkSwCraft/status/1534889854038953984?s=20), [Meetup](https://meetup.com/cork-software-craftsmanship-meetup/events/286029958/)
+
+---
+
 ### Coding Dojo: TDD with Ensemble/Pair Programming
   - **When**: Tuesday, February 22, 2022 — 7:15 PM
   - **Summary**: Spend an evening online collaboratively solving a coding challenge in the language of your choice. Learn and practice Ensemble Programming and Test-Driven Development. All experience levels welcome.
