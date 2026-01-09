@@ -29,6 +29,8 @@ title: Events
   - **Location**: Metric Tristarinc Ltd, Donnybrook Commercial Centre, Cork
   - **Links**: [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7183742062641459200?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAe-fyQBFk3YZ5FNzLCTe3i9NEyopsW-DFU), [Meetup](https://www.meetup.com/2d121c11-23f9-41eb-9a13-40b30799a1f0/events/300304637/)
 
+---
+
 ### Test-Driven Development with AI
   - **When**: Thursday, March 21, 2024 — 6:15 PM GMT
   - **Summary**: In-person session to level up your TDD skills with the help of AI assistants (Copilot/Copilot Chat and others). We'll pair up and explore how AI impacts a TDD workflow.
@@ -37,6 +39,8 @@ title: Events
   - **Location**: Metric Tristarinc Ltd, Donnybrook Commercial Centre, Cork
   - **What do I need?**: your IDE + AI assistant set up (GitHub Copilot, JetBrains AI Assistant, etc.)
   - **Links**: [Meetup](https://meetup.com/cork-software-crafters/events/298880260/)
+
+---
 
 ### Continuous Delivery: non-breaking changes exercise
 - **When**: Thursday, February 8, 2024 — 7:30 PM GMT
