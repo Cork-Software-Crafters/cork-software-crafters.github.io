@@ -80,3 +80,23 @@ title: Events
   - **Resources**: http://codingdojo.org/WhatIsCodingDojo, http://codingdojo.org/TestDrivenDevelopment/, https://en.wikipedia.org/wiki/Mob_programming
   - **Links**: [Meetup](https://www.meetup.com/Cork-Software-Craftsmanship-Meetup/events/283991816/)
 
+---
+
+### Hands-on session: Refactoring (Fantasy Battle Refactoring Kata)
+  - **When**: Tuesday, May 25, 2021 — 7:00 PM
+  - **Summary**: Learn how to improve the design of existing code in an efficient and safe way by applying refactoring techniques. We'll use the Fantasy Battle Refactoring Kata to explore ideas like the Law of Demeter.
+  - **Exercise**: [Fantasy Battle Refactoring Kata](https://github.com/Cork-Software-Crafters/FantasyBattle-Refactoring-Kata)
+  - **Agenda**: 7:00 welcome & intro, 7:15 hands-on time in pairs, 8:15 retrospective
+  - **Resources**: http://codingdojo.org/WhatIsCodingDojo/, https://refactoring.com
+  - **Links**: [X post](https://x.com/CorkSwCraft/status/1394566169592479745?s=20), [Meetup](https://meetup.com/Cork-Software-Craftsmanship-Meetup/events/278252267)
+
+---
+
+### Hands-on session: Refactoring (Beverages Prices kata)
+  - **When**: Wednesday, March 31, 2021 — 7:00 PM
+  - **Summary**: Practice refactoring techniques to improve the design of existing code in a safe way. We welcome developers in any programming language, of different experiences and perspectives.
+  - **Exercise**: [Beverages Prices kata](https://github.com/Cork-Software-Crafters/Beverages_Prices_Refactoring_Kata)
+  - **Agenda**: 7:00 welcome & intro, 7:15 hands-on time in pairs, 8:15 retrospective
+  - **Resources**: http://codingdojo.org/WhatIsCodingDojo/, https://refactoring.com
+  - **Links**: [X post](https://x.com/CorkSwCraft/status/1375056196785336322?s=20), [Meetup](https://meetup.com/Cork-Software-Craftsmanship-Meetup/events/277090880/)
+
