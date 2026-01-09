@@ -21,6 +21,16 @@ title: Events
 
 ---
 
+### Continuous Delivery: non-breaking changes exercise
+- **When**: Thursday, February 8, 2024 — 7:30 PM GMT
+- **Summary**: An online hands-on group exercise exploring CI/CD and how to deliver changes safely without breaking production. We'll discuss strategies for UI, API, database, message queue, and library changes.
+- **Agenda**: 7:30 welcome & intro, 7:45 hands-on exercise in groups, 8:45 closing circle
+- **Facilitator**: Paulo Clavijo
+- **Resources**: https://martinfowler.com/bliki/ContinuousDelivery.html, http://martinfowler.com/bliki/ParallelChange.html
+- **Links**: [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7159122515561209856?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAe-fyQBFk3YZ5FNzLCTe3i9NEyopsW-DFU), [Meetup](https://www.meetup.com/2d121c11-23f9-41eb-9a13-40b30799a1f0/events/298859591/)
+
+---
+
 ### Coding Dojo: Let's do some TDD (Gossiping Bus Drivers Kata)
   - **When**: Thursday, May 25, 2023 — 7:30 PM IST
   - **Summary**: An online coding dojo where we'll collaborate in small groups to practice Test-Driven Development and share ideas/best practices while solving the Gossiping Bus Drivers kata.
