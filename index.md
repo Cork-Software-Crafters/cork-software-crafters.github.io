@@ -29,3 +29,13 @@ title: Events
   - **Exercise**: [Gossiping Bus Drivers Kata](https://kata-log.rocks/gossiping-bus-drivers-kata)
   - **Links**: [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7062700228428079104?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAe-fyQBFk3YZ5FNzLCTe3i9NEyopsW-DFU), [Meetup](https://www.meetup.com/cork-software-crafters/events/300304637/)
 
+---
+
+### Coding Dojo: TDD with Ensemble/Pair Programming
+  - **When**: Tuesday, February 22, 2022 — 7:15 PM
+  - **Summary**: Spend an evening online collaboratively solving a coding challenge in the language of your choice. Learn and practice Ensemble Programming and Test-Driven Development. All experience levels welcome.
+  - **Agenda**: 7:15 welcome & intro, 7:30 hands-on coding in groups, 8:45 retrospective
+  - **What do I need?**: Your IDE/language/testing framework ready; optional seed projects: https://github.com/paucls/tdd-kata-seeds
+  - **Resources**: http://codingdojo.org/WhatIsCodingDojo, http://codingdojo.org/TestDrivenDevelopment/, https://en.wikipedia.org/wiki/Mob_programming
+  - **Links**: [Meetup](https://www.meetup.com/Cork-Software-Craftsmanship-Meetup/events/283991816/)
+
