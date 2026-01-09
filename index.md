@@ -21,6 +21,15 @@ title: Events
 
 ---
 
+### Test-Driven Development with AI
+  - **When**: Thursday, March 21, 2024 — 6:15 PM GMT
+  - **Summary**: In-person session to level up your TDD skills with the help of AI assistants (Copilot/Copilot Chat and others). We'll pair up and explore how AI impacts a TDD workflow.
+  - **Exercise**: Posts API Kata (starter code in Spring Boot, available in Java and Kotlin)
+  - **Agenda**: 6:15 welcome & intros, 6:30 exercise intro, 6:45 hands-on pairing, 7:45 retrospective
+  - **Location**: Metric Tristarinc, Unit 101, Donnybrook Commercial Centre, T12 TY43
+  - **What do I need?**: your IDE + AI assistant set up (GitHub Copilot, JetBrains AI Assistant, etc.)
+  - **Links**: [Meetup](https://meetup.com/cork-software-crafters/events/298880260/)
+
 ### Continuous Delivery: non-breaking changes exercise
 - **When**: Thursday, February 8, 2024 — 7:30 PM GMT
 - **Summary**: An online hands-on group exercise exploring CI/CD and how to deliver changes safely without breaking production. We'll discuss strategies for UI, API, database, message queue, and library changes.
