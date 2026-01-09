@@ -18,7 +18,7 @@ We value:
 [Manifesto for Software Craftsmanship Gatherings](https://2014.itakeunconf.com/values)
 
 Follow us on:
-- LinkedIn group: https://www.linkedin.com/groups/12085596
-- Twitter [@CorkSwCraft](https://x.com/CorkSwCraft)
-- Meetup https://www.meetup.com/cork-software-crafters
-- Slack channel: http://softwarecrafters.slack.com/messages/cork
+- [LinkedIn group](https://www.linkedin.com/groups/12085596)
+- X [@CorkSwCraft](https://x.com/CorkSwCraft)
+- Meetup https://www.meetup.com/cork-software-crafters (not-longer active)
+
