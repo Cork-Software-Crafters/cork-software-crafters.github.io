@@ -82,6 +82,18 @@ title: Events
 
 ---
 
+### Coderetreat Day 2021
+- **When**: Monday, November 15, 2021 — 9:00 AM to 4:00 PM (Irish time)
+- **Summary**: Join us for a unique, fun day-long event designed to help us become better developers through focused practice on the fundamentals of software development and design.
+- **What is a CodeRetreat?**: An intensive practice event where you work away from the pressure of “getting things done”, to improve modular/object-oriented design skills and reduce the cost of change over time.
+- **Why should I attend?**: A fun and challenging day to build coding skills, learn different approaches to the same problem, and meet other developers through pairing and TDD challenges with a focus on clean code.
+- **Agenda**: 09:00 welcome & introductions, 09:15 session #1, 10:00 retrospective/break, 10:30 session #2, 11:15 retrospective/break, 11:45 session #3, 12:30 retrospective, 12:45-13:30 lunch, 13:30 session #4, 14:15 retrospective/break, 14:45 session #5, 15:30 retrospective, 15:45 closing circle
+- **Facilitators**: Paulo Esteban, Thomas Bouttaz
+- **Resources**: https://www.coderetreat.org/getting-started/
+- **Links**: [X post](https://x.com/CorkSwCraft/status/1456185173037522951?s=20), [Meetup](https://meetup.com/Cork-Software-Craftsmanship-Meetup/events/281815385)
+
+---
+
 ### Refactoring to Hexagonal Architecture
 - **When**: Wednesday, June 30, 2021 — 7:00 PM
 - **Summary**: Practice improving the design of existing code in an efficient and safe way by applying refactoring techniques. We'll use the Birthday Greetings Kata to learn about Hexagonal Architecture and how to shield your Domain Model from external APIs and systems.
