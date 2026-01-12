@@ -131,3 +131,12 @@ title: Events
   - **Agenda**: 7:00 welcome & intro, 7:15 hands-on time in pairs, 8:15 retrospective
   - **Resources**: http://codingdojo.org/WhatIsCodingDojo/, http://codingdojo.org/TestDrivenDevelopment/
 
+---
+
+### Workshop: Consumer-Driven Contract Testing
+  - **When**: Tuesday, November 10, 2020 — 7:00 PM
+  - **Summary**: Consumer-Driven Contract Testing can help teams to implement a scalable testing strategy for Micro-services. This online session, it is aimed at demonstrating core features and benefits of contract testing with Pact. Covering contract tests for REST as well as Messaging communications. The prepared code examples use Kotlin and SpringBoot.
+  - **Agenda**: 7:00pm welcome and introduction, 7:10pm introduction to CDC and Pact, 7:45pm demo, 8:15pm practice time
+  - **Facilitator**: Paulo Clavijo
+  - **Resources**: https://martinfowler.com/articles/consumerDrivenContracts.html, https://docs.pact.io
+  - **Links**: [X post](https://x.com/CorkSwCraft/status/1324629269734215681?s=20), [Meetup](https://meetup.com/Cork-Software-Craftsmanship-Meetup/events/274382395)
