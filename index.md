@@ -82,6 +82,16 @@ title: Events
 
 ---
 
+### Refactoring to Hexagonal Architecture
+- **When**: Wednesday, June 30, 2021 — 7:00 PM
+- **Summary**: Practice improving the design of existing code in an efficient and safe way by applying refactoring techniques. We'll use the Birthday Greetings Kata to learn about Hexagonal Architecture and how to shield your Domain Model from external APIs and systems.
+- **Exercise**: [Birthday Greetings Kata](https://github.com/Cork-Software-Crafters/birthday-greetings-kata)
+- **Agenda**: 7:00 welcome & intro, 7:05 intro to Hexagonal Architecture, 7:15 hands-on time in pairs, 8:30 retrospective
+- **Resources**: http://codingdojo.org/WhatIsCodingDojo/, https://refactoring.com, http://matteo.vaccari.name/blog/the-hexagonal-architecture
+- **Links**: [X post](https://x.com/CorkSwCraft/status/1406976736479305729?s=20), [Meetup](https://meetup.com/Cork-Software-Craftsmanship-Meetup/events/278883052)
+
+---
+
 ### Hands-on session: Refactoring (Fantasy Battle Refactoring Kata)
   - **When**: Tuesday, May 25, 2021 — 7:00 PM
   - **Summary**: Learn how to improve the design of existing code in an efficient and safe way by applying refactoring techniques. We'll use the Fantasy Battle Refactoring Kata to explore ideas like the Law of Demeter.
