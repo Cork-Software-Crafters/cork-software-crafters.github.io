@@ -143,12 +143,44 @@ title: Events
 
 ---
 
-### Hands-on session: CI/CD non-breaking changes exercise
-  - **When**: Tuesday, February 25, 2020 — 6:15 PM
-  - **Summary**: We favour a CI/CD approach, integrating changes with the trunk branch and deploying all the way to production multiple times per day. Our pull requests should always take in consideration a blue/green deployment. But there is a multitude of "breaking changes" that can make our life complicated :-(. In this group exercise, we will go throw different scenarios for breaking changes (UI changes, API changes, Database changes, Message Queue changes, Library changes ...) and discuss together what could be the right steps to take to integrate changes in a non-breaking way.
-  - **Agenda**: 6:15pm - Networking over pizza, 6:30pm - Introduction, 6:40pm - Hands-on time. We will work in groups on the exercise, 7:45pm - Retrospective
-  - **Location**: Forcepoint offices in Cork City centre
+### Online - User Story Slicing Kata
+  - **When**: Tuesday, September 22, 2020 — 7:00 PM
+  - **Summary**: User story slicing is a key agile practice, yet many teams struggle with it by creating big user stories that are hard to tackle. The stories they create often are too complex, unclear or without a clear value attached to them. In this online session, we will learn and practice how to break user stories into really thin vertical slices.
+  - **Agenda**: 7:00pm - Welcome and introduction, 7:30pm - Hands-on time. We will work in groups on the exercise, 8:15pm - Retrospective
+  - **Requirements**: Zoom installed (https://zoom.us/support/download) to join the online session
   - **Facilitator**: Paulo Clavijo
-  - **Equipment Required**: Laptops are not needed, we'll use only pen and paper
-  - **Resources**: https://martinfowler.com/bliki/ContinuousDelivery.html, http://martinfowler.com/bliki/ParallelChange.html
-  - **Links**: [X post 1](https://x.com/CorkSwCraft/status/1232323769718497282), [X post 2](https://x.com/CorkSwCraft/status/1232598865070694400), [Meetup](https://www.meetup.com/2d121c11-23f9-41eb-9a13-40b30799a1f0/events/267961979/)
+  - **Sponsor**: JetBrains (raffling a license among participants)
+  - **Links**: [X post](https://x.com/CorkSwCraft/status/1305419810742898688), [Meetup](https://www.meetup.com/2d121c11-23f9-41eb-9a13-40b30799a1f0/events/273188357/)
+
+### Online - Test-Driven Development practice session
+- **When**: Tuesday, July 7, 2020 — 7:00 PM
+- **Summary**: In this online session, we will work in pairs practising TDD and software design on a code kata. Coding katas are a way that programmers can kick the tires of their programming languages, paradigms and practices. Katas are simple problems that give developers the opportunity to exercise deliberate practice, improving their coding skills and exploring different approaches and techniques.
+- **Agenda**: 7:00pm - Welcome and introduction, 7:15pm - Hands-on time. We will work in pairs on the code kata, 8:15pm - Retrospective: discuss our solutions, pros and cons
+- **Requirements**: Zoom installed, IDE with programming language and testing framework ready
+- **Resources**: http://codingdojo.org/WhatIsCodingDojo/, http://codingdojo.org/TestDrivenDevelopment/, [TDD kata seeds](https://github.com/paucls/tdd-kata-seeds)
+- **Links**: [X post](https://x.com/CorkSwCraft/status/1277504460986687489), [Meetup](https://www.meetup.com/2d121c11-23f9-41eb-9a13-40b30799a1f0/events/271537894/)
+
+---
+
+### Online - Test-Driven Development Introduction
+- **When**: Thursday, May 28, 2020 — 6:30 PM
+- **Summary**: This month we will introduce the key elements of the TDD discipline: Why do TDD? TDD cycle. The golden rule, the 3 laws, baby steps. TDD good habits. 4 Rules of Simple Design. This session aims to introduce the concept of TDD using both theory and practical demonstration.
+- **Agenda**: 6:30 pm - Test-Driven Development introduction, 7:15 pm - Live demo using TDD for the Bowling Game kata, 7:45 pm - Q&A, Retrospective
+- **Exercise**: [Bowling Game Kata](http://kata-log.rocks/bowling-game-kata)
+- **Requirements**: Zoom installed, familiar with unit testing and testing frameworks like JUnit, Jasmine, Pytest, etc.
+- **Resources**: http://codingdojo.org/WhatIsCodingDojo/, http://codingdojo.org/TestDrivenDevelopment/
+- **Links**: [X post](https://x.com/CorkSwCraft/status/1262284890319532033), [Meetup](https://www.meetup.com/2d121c11-23f9-41eb-9a13-40b30799a1f0/events/270643582/)
+
+---
+
+### Hands-on session: CI/CD non-breaking changes exercise
+- **When**: Tuesday, February 25, 2020 — 6:15 PM
+- **Summary**: We favour a CI/CD approach, integrating changes with the trunk branch and deploying all the way to production multiple times per day. Our pull requests should always take in consideration a blue/green deployment. But there is a multitude of "breaking changes" that can make our life complicated :-(. In this group exercise, we will go throw different scenarios for breaking changes (UI changes, API changes, Database changes, Message Queue changes, Library changes ...) and discuss together what could be the right steps to take to integrate changes in a non-breaking way.
+- **Agenda**: 6:15pm - Networking over pizza, 6:30pm - Introduction, 6:40pm - Hands-on time. We will work in groups on the exercise, 7:45pm - Retrospective
+- **Location**: Forcepoint offices in Cork City centre
+- **Facilitator**: Paulo Clavijo
+- **Equipment Required**: Laptops are not needed, we'll use only pen and paper
+- **Resources**: https://martinfowler.com/bliki/ContinuousDelivery.html, http://martinfowler.com/bliki/ParallelChange.html
+- **Links**: [X post 1](https://x.com/CorkSwCraft/status/1232323769718497282), [X post 2](https://x.com/CorkSwCraft/status/1232598865070694400), [Meetup](https://www.meetup.com/2d121c11-23f9-41eb-9a13-40b30799a1f0/events/267961979/)
+
+---
