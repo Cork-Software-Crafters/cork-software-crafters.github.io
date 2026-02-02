@@ -140,3 +140,15 @@ title: Events
   - **Facilitator**: Paulo Clavijo
   - **Resources**: https://martinfowler.com/articles/consumerDrivenContracts.html, https://docs.pact.io
   - **Links**: [X post](https://x.com/CorkSwCraft/status/1324629269734215681?s=20), [Meetup](https://meetup.com/Cork-Software-Craftsmanship-Meetup/events/274382395)
+
+---
+
+### Hands-on session: CI/CD non-breaking changes exercise
+  - **When**: Tuesday, February 25, 2020 — 6:15 PM
+  - **Summary**: We favour a CI/CD approach, integrating changes with the trunk branch and deploying all the way to production multiple times per day. Our pull requests should always take in consideration a blue/green deployment. But there is a multitude of "breaking changes" that can make our life complicated :-(. In this group exercise, we will go throw different scenarios for breaking changes (UI changes, API changes, Database changes, Message Queue changes, Library changes ...) and discuss together what could be the right steps to take to integrate changes in a non-breaking way.
+  - **Agenda**: 6:15pm - Networking over pizza, 6:30pm - Introduction, 6:40pm - Hands-on time. We will work in groups on the exercise, 7:45pm - Retrospective
+  - **Location**: Forcepoint offices in Cork City centre
+  - **Facilitator**: Paulo Clavijo
+  - **Equipment Required**: Laptops are not needed, we'll use only pen and paper
+  - **Resources**: https://martinfowler.com/bliki/ContinuousDelivery.html, http://martinfowler.com/bliki/ParallelChange.html
+  - **Links**: [X post 1](https://x.com/CorkSwCraft/status/1232323769718497282), [X post 2](https://x.com/CorkSwCraft/status/1232598865070694400), [Meetup](https://www.meetup.com/2d121c11-23f9-41eb-9a13-40b30799a1f0/events/267961979/)
