@@ -167,7 +167,7 @@ title: Events
 - **Summary**: This month we will introduce the key elements of the TDD discipline: Why do TDD? TDD cycle. The golden rule, the 3 laws, baby steps. TDD good habits. 4 Rules of Simple Design. This session aims to introduce the concept of TDD using both theory and practical demonstration.
 - **Agenda**: 6:30 pm - Test-Driven Development introduction, 7:15 pm - Live demo using TDD for the Bowling Game kata, 7:45 pm - Q&A, Retrospective
 - **Exercise**: [Bowling Game Kata](http://kata-log.rocks/bowling-game-kata)
-- **Requirements**: Zoom installed, familiar with unit testing and testing frameworks like JUnit, Jasmine, Pytest, etc.
+- **Requirements**: Be familiar with unit testing and testing frameworks like JUnit, Jasmine, Pytest, etc.
 - **Resources**: http://codingdojo.org/WhatIsCodingDojo/, http://codingdojo.org/TestDrivenDevelopment/
 - **Links**: [X post](https://x.com/CorkSwCraft/status/1262284890319532033), [Meetup](https://www.meetup.com/2d121c11-23f9-41eb-9a13-40b30799a1f0/events/270643582/)
 
